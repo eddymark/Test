@@ -1,14 +1,1 @@
-
-
-
-
-
-
-
-
-
-this is a readme file for a test application for github 
-
-
-
-
+this is the readme for the first week of the genOneNYC program and some test code using python 
